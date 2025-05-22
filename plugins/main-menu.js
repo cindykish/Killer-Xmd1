@@ -65,7 +65,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃•  remove
 ┃◈┃•  kick
 ┃◈┃•  promote
-┃◈┃• ⬇ demote
+┃◈┃•  demote
 ┃◈┃•  dismiss
 ┃◈┃•  revoke
 ┃◈┃•  setgoodbye
@@ -233,7 +233,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃•  url
 ┃◈┃•  repeat
 ┃◈┃•  ask
-┃◈┃• readmore
+┃◈┃•  readmore
 ┃◈╰─────────────────┈⊷
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
 

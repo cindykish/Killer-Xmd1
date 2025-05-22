@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://railway.app?referralCode=AqkNn4">
-    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
+    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🚀_ᎠᎬᏢᏞϴᎽ_ϴΝ_ᎡᎪᏆᏞᏔᎪᎽ-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
   </a>
 </p>
 

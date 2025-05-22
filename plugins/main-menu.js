@@ -10,7 +10,7 @@ cmd({
     use: '.menu2',
     desc: "Show all bot commands",
     category: "menu",
-    react: "📜",
+    react: "💫",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -22,7 +22,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• 🌐 Platform : *Heroku*
 ┃◈┃• 📦 Version : *4.0.0*
 ┃◈┃• ⏱️ Runtime : *${runtime(process.uptime())}*
-┃◈╰─────────────────┈⊷
+┃◈╰ᎻᎪᏙᎬ ҒႮΝ ᏔᏆͲᎻ ͲᎻᎬՏᎬ ᎡᎬᏞᏆᎪᏴᏞᎬ ᏟϴᎷᎷᎪΝᎠՏ!💫─────────────────┈⊷
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
 
 ╭━━〔 📥 *ᎠϴᏔΝᏞϴᎪᎠ ᎷᎬΝႮ* 〕━━┈⊷

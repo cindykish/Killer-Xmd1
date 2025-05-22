@@ -28,7 +28,7 @@ cmd({
     const user = data.data;
     const verifiedBadge = user.verified ? "✅" : "❌";
 
-    const caption = `╭━━━〔 *TWITTER/X STALKER* 〕━━━⊷\n`
+    const caption = `╭━━━〔 *ͲᏔᏆͲͲᎬᎡ/Х  ՏͲᎪᏞᏦᎬᎡ* 〕━━━⊷\n`
       + `┃👤 *Name:* ${user.name}\n`
       + `┃🔹 *Username:* @${user.username}\n`
       + `┃✔️ *Verified:* ${verifiedBadge}\n`
@@ -38,7 +38,7 @@ cmd({
       + `┃📅 *Joined:* ${user.created}\n`
       + `┃🔗 *Profile:* [Click Here](${user.url})\n`
       + `╰━━━⪼\n\n`
-      + `🔹 *Powered BY ObedTechX*`;
+      + `🔹 *Powered BY 🅾🅱🅴🅳🆃🅴🅲🅷;
 
     await conn.sendMessage(from, {
       image: { url: user.avatar },

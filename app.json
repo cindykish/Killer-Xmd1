@@ -1,8 +1,8 @@
 {
-  "name": "HUNTER-XMD ",
-  "description": "Javascript WhatsApp bot made by Obed TechX",
-  "logo": "https://files.catbox.moe/ggnnes.jpg",
-  "keywords": ["HUNTER XMD"],
+  "name": "ᏦᏆᏞᏞᎬᎡ ХᎷᎠ  ",
+  "description": "Javascript WhatsApp bot made by 🄾🄱🄴🄳 🅃🄴🄲🄷",
+  "logo": "https://files.catbox.moe/db7508.jpg",
+  "keywords": ["ᏦᏆᏞᏞᎬᎡ ХᎷᎠ "],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "HUNTER XMD"
+      "value": "ᏦᏆᏞᏞᎬᎡ ХᎷᎠ "
     }, 
       
     "PREFIX": {
@@ -79,14 +79,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY HUNTER-XMD✅*"
+      "value": "*SEEN YOUR STATUS BY ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ✅*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Obed TechX"
+      "value": "🅾🅱🅴🅳🆃🅴🅲🅷"
 }, 
 
     "OWNER_NUMBER": {
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "HUNTER-XMD"
+      "value": "ᏦᏆᏞᏞᎬᎡ ХᎷᎠ "
 
       }, 
 
@@ -120,7 +120,7 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
    "MENTION_REPLY": {
@@ -132,13 +132,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/ggnnes.jpg"
+      "value": "https://files.catbox.moe/db7508.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Obed TechX*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ🅾🅱🅴🅳🆃🅴🅲🅷*"
     },
 
       "DELETE_LINKS": {

@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://killer-xmd-pair.onrender.com">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_ᏀᎬͲ_ᏦᏆᏞᏞᎬᎡ_ХᎷᎠ_ᎬՏՏᏆϴΝ-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
   
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Obedweb2/Killer-Xmd1">

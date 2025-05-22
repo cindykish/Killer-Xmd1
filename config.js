@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY HUNTER XMD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY ᏦᏆᏞᏞᎬᎡ ХᎷᎠ💫*",
 // set the auto reply massage on status reply  
 WELCOME: process.env.WELCOME || "true",
 // true if want welcome and goodbye msg in groups    
@@ -23,13 +23,13 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/ggnnes.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/db7508.jpg",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "HUNTER-XMD",
+BOT_NAME: process.env.BOT_NAME || "ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "HUNTER-XMD",
+STICKER_NAME: process.env.STICKER_NAME || "ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -39,13 +39,13 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "254701082940",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Obed TechX",
+OWNER_NAME: process.env.OWNER_NAME || "🅾🅱🅴🅳🆃🅴🅲🅷",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Obed TechX*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 🅾🅱🅴🅳🆃🅴🅲🅷*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/ggnnes.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/db7508.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *HUNTER XMD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *ᏦᏆᏞᏞᎬᎡ ХᎷᎠ *⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs

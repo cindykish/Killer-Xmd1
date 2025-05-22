@@ -113,7 +113,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*ᎻᎬᏞᏞϴ ͲᎻᎬᎡᎬ ᏦᏆᏞᏞᎬᎡ-ХᎷᎠ ႮՏᎬՏ! \ud83d\udc4b\ud83c\udffb* \n\n> ՏiᎷᏢᏞᎬ ,ՏͲᎡᎪᏆᏀͲ ҒϴᎡᏔᎪᎡᎠ ᏴႮͲ ᏞϴᎪᎠᎬᎠ ᏔᏆͲᎻ ҒᎬᎪͲႮᎡᎬᎡՏ \ud83c\udf8a, ᎷᎬᎬͲ ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ᏴϴͲ.\n\n *ͲᎻᎪΝᏦ ᎽϴႮ ҒϴᎡ ႮՏᏆΝᏀ ᏦᏆᏞᏞᎬᎡ-ХᎷᎠ ᏴϴͲ \ud83d\udea9* \n\n> ᎫϴᏆΝ ᏔᎻᎪͲՏᎪᏢᏢ ᏟᎻᎪΝΝᎬᏞ :- ⤵️\n \nhttps://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y\n\n- *YOUR PREFIX:* = ${prefix}\n\nᎠϴΝͲ ҒϴᎡᏀᎬͲ Ͳϴ ᏀᏆᏙᎬ ՏͲᎪᎡ Ͳϴ ᎡᎬᏢϴ ⬇️\n\nhttps://github.com/JawadYT36/KHAN-MD\n\n> © Powered BY 🅾🅱🅴🅳🆃🅴🅲🅷 \ud83d\udda4`;
+  let up = `*ᎻᎬᏞᏞϴ ͲᎻᎬᎡᎬ ᏦᏆᏞᏞᎬᎡ-ХᎷᎠ ႮՏᎬՏ! \ud83d\udc4b\ud83c\udffb* \n\n> ՏiᎷᏢᏞᎬ ,ՏͲᎡᎪᏆᏀͲ ҒϴᎡᏔᎪᎡᎠ ᏴႮͲ ᏞϴᎪᎠᎬᎠ ᏔᏆͲᎻ ҒᎬᎪͲႮᎡᎬᎡՏ \ud83c\udf8a, ᎷᎬᎬͲ ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ᏴϴͲ.\n\n *ͲᎻᎪΝᏦ ᎽϴႮ ҒϴᎡ ႮՏᏆΝᏀ ᏦᏆᏞᏞᎬᎡ-ХᎷᎠ ᏴϴͲ \ud83d\udea9* \n\n> ᎫϴᏆΝ ᏔᎻᎪͲՏᎪᏢᏢ ᏟᎻᎪΝΝᎬᏞ :- \n \nhttps://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y\n\n- *YOUR PREFIX:* = ${prefix}\n\nᎠϴΝͲ ҒϴᎡᏀᎬͲ Ͳϴ ᏀᏆᏙᎬ ՏͲᎪᎡ Ͳϴ ᎡᎬᏢϴ \n\nhttps://github.com/Obedweb2/Killer-Xmd1\n\n> © Powered BY 🅾🅱🅴🅳🆃🅴🅲🅷 \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/db7508.jpg` }, caption: up })
   }
   })

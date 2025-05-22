@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Obedweb2/Killer-Xmd1">
-    <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+    <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/🚀_ᎠᎬᏢᏞϴᎽ_ϴΝ_ᎻᎬᎡϴᏦႮ-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
 

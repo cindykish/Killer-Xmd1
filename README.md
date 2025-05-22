@@ -19,7 +19,7 @@
     <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_ᎠᎬᏢᏞϴᎽ_ϴΝ_ᎡᎬΝᎠᎬᎡ-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
   </a>
   
-  <a href="https://ibrahimadams.site/Panel_files">
+  <a href="https://github.com/Obedweb/Killer-Xmd1/archive/refs/heads/main.zip">
     <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_ᏀᎬͲ_ᏢᎪΝΝᎬᏞ_ҒᏆᏞᎬՏ-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
   </a>
 </p>

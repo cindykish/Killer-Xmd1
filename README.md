@@ -20,7 +20,7 @@
   </a>
   
   <a href="https://ibrahimadams.site/Panel_files">
-    <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_GET_PANEL_FILES-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
+    <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_ᏀᎬͲ_ᏢᎪΝΝᎬᏞ_ҒᏆᏞᎬՏ-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
   </a>
 </p>
 

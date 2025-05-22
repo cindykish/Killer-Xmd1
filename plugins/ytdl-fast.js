@@ -89,8 +89,8 @@ cmd({
             body: "Join our WhatsApp Channel",
             mediaType: 1,
             thumbnailUrl: song.thumbnail.replace('default.jpg', 'hqdefault.jpg'),
-            sourceUrl: 'https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j',
-            mediaUrl: 'https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j',
+            sourceUrl: 'https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y',
+            mediaUrl: 'https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y',
             showAdAttribution: true,
             renderLargerThumbnail: true
         }

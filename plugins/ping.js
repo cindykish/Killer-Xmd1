@@ -1,1 +1,77 @@
-const _0x3efd35=_0x37c5;(function(_0x1e8d3a,_0x538025){const _0x348354=_0x37c5,_0x970b36=_0x1e8d3a();while(!![]){try{const _0x547e10=-parseInt(_0x348354(0x11e))/0x1+-parseInt(_0x348354(0x106))/0x2*(-parseInt(_0x348354(0x123))/0x3)+-parseInt(_0x348354(0x105))/0x4+parseInt(_0x348354(0x11c))/0x5*(-parseInt(_0x348354(0x110))/0x6)+-parseInt(_0x348354(0x116))/0x7+-parseInt(_0x348354(0x122))/0x8+parseInt(_0x348354(0x120))/0x9;if(_0x547e10===_0x538025)break;else _0x970b36['push'](_0x970b36['shift']());}catch(_0x39858d){_0x970b36['push'](_0x970b36['shift']());}}}(_0x5376,0xe274c));function _0x37c5(_0x18cb6a,_0x53e406){const _0x53762b=_0x5376();return _0x37c5=function(_0x37c5e7,_0x18b25){_0x37c5e7=_0x37c5e7-0x103;let _0x16e508=_0x53762b[_0x37c5e7];return _0x16e508;},_0x37c5(_0x18cb6a,_0x53e406);}function _0x5376(){const _0x2fe37b=['3dJjrKi','🅾🅱🅴🅳🆃🅴🅲🅷','message','pong','main','6739756JTxHJK','2410288wfxvPi','sendMessage','Error\x20in\x20ping\x20command:','ms\x20','ping2','../config','*PINGING...*','speed','now','An\x20error\x20occurred:\x20','6kbKUkT','ms*','ping','getTime','log','🛡️','8862070jBodPK','length','key','120363416335506023@newsletter','../command','random','4859605QrrzNx','Check\x20bot\x27s\x20response\x20time.','1494984UlJgot','.ping','51983757ReaNfy','floor','5085592nuyxPc'];_0x5376=function(){return _0x2fe37b;};return _0x5376();}const config=require(_0x3efd35(0x10b)),{cmd,commands}=require(_0x3efd35(0x11a));cmd({'pattern':_0x3efd35(0x10a),'alias':[_0x3efd35(0x10d),_0x3efd35(0x103)],'use':_0x3efd35(0x11f),'desc':_0x3efd35(0x11d),'category':'main','react':'⚡','filename':__filename},async(_0x36eabf,_0x294130,_0x1a466e,{from:_0x48c0dc,quoted:_0xaab86a,sender:_0x1b3188,reply:_0x4d4803})=>{const _0x3bc5fa=_0x3efd35;try{const _0x5c211b=new Date()[_0x3bc5fa(0x113)](),_0x4ba452=['🔥','⚡','🚀','💨','🎯','🎉','🌟','💥','🕐','🔹'],_0x451c68=['💎','🏆','⚡️','🚀','🎶','🌠','🌀','🔱',_0x3bc5fa(0x115),'✨'],_0x3ee0d0=_0x4ba452[Math[_0x3bc5fa(0x121)](Math[_0x3bc5fa(0x11b)]()*_0x4ba452[_0x3bc5fa(0x117)])];let _0x8538c8=_0x451c68[Math[_0x3bc5fa(0x121)](Math[_0x3bc5fa(0x11b)]()*_0x451c68[_0x3bc5fa(0x117)])];while(_0x8538c8===_0x3ee0d0){_0x8538c8=_0x451c68[Math['floor'](Math[_0x3bc5fa(0x11b)]()*_0x451c68[_0x3bc5fa(0x117)])];}await _0x36eabf[_0x3bc5fa(0x107)](_0x48c0dc,{'react':{'text':_0x8538c8,'key':_0x294130[_0x3bc5fa(0x118)]}});const _0x33ac73=new Date()['getTime'](),_0x55b838=(_0x33ac73-_0x5c211b)/0x3e8,_0x6a91ef='>\x20*k̲̅i̲̅l̲̅l̲̅e̲̅r̲̅-x̲̅m̲̅d̲̅\x20s̲̅p̲̅e̲̅e̲̅d̲̅:\x20'+_0x55b838['toFixed'](0x2)+_0x3bc5fa(0x109)+_0x3ee0d0+'*';await _0x36eabf[_0x3bc5fa(0x107)](_0x48c0dc,{'text':_0x6a91ef,'contextInfo':{'mentionedJid':[_0x1b3188],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x3bc5fa(0x119),'newsletterName':_0x3bc5fa(0x124),'serverMessageId':0x8f}}},{'quoted':_0x294130});}catch(_0x4b1719){console['error'](_0x3bc5fa(0x108),_0x4b1719),_0x4d4803(_0x3bc5fa(0x10f)+_0x4b1719[_0x3bc5fa(0x125)]);}}),cmd({'pattern':_0x3efd35(0x112),'desc':'Check\x20bot\x27s\x20response\x20time.','category':_0x3efd35(0x104),'react':'🍂','filename':__filename},async(_0x7bf772,_0x53e6d3,_0x564a00,{from:_0x796eee,quoted:_0x471207,body:_0x372625,isCmd:_0xdf3c92,command:_0x41c8d4,args:_0x1f6680,q:_0x5630ee,isGroup:_0x37fe03,sender:_0x2cd307,senderNumber:_0x1fc296,botNumber2:_0x211914,botNumber:_0x5dfecd,pushname:_0x10d9fb,isMe:_0x1cd74b,isOwner:_0x200b7b,groupMetadata:_0xa042f4,groupName:_0x213ed8,participants:_0x2c8e34,groupAdmins:_0x52641d,isBotAdmins:_0x1ecb10,isAdmins:_0x9868f8,reply:_0x14346f})=>{const _0x3d688e=_0x3efd35;try{const _0x41e40b=Date[_0x3d688e(0x10e)](),_0x110d66=await _0x7bf772[_0x3d688e(0x107)](_0x796eee,{'text':_0x3d688e(0x10c)}),_0x8716dd=Date[_0x3d688e(0x10e)](),_0x47bc04=_0x8716dd-_0x41e40b;await _0x7bf772[_0x3d688e(0x107)](_0x796eee,{'text':'*🔥\x20k̲̅i̲̅l̲̅l̲̅e̲̅r̲̅-x̲̅m̲̅d̲̅\x20s̲̅p̲̅e̲̅e̲̅d̲̅\x20:\x20'+_0x47bc04+_0x3d688e(0x111)},{'quoted':_0x110d66});}catch(_0x364a8c){console[_0x3d688e(0x114)](_0x364a8c),_0x14346f(''+_0x364a8c);}});
+const config = require('../config');
+const { cmd, commands } = require('../command');
+
+cmd({
+    pattern: "ping2",
+    alias: ["speed","pong"],use: '.ping',
+    desc: "Check bot's response time.",
+    category: "main",
+    react: "⚡",
+    filename: __filename
+},
+async (conn, mek, m, { from, quoted, sender, reply }) => {
+    try {
+        const start = new Date().getTime();
+
+        const reactionEmojis = ['🔥', '⚡', '🚀', '💨', '🎯', '🎉', '🌟', '💥', '🕐', '🔹'];
+        const textEmojis = ['💎', '🏆', '⚡️', '🚀', '🎶', '🌠', '🌀', '🔱', '🛡️', '✨'];
+
+        const reactionEmoji = reactionEmojis[Math.floor(Math.random() * reactionEmojis.length)];
+        let textEmoji = textEmojis[Math.floor(Math.random() * textEmojis.length)];
+
+        // Ensure reaction and text emojis are different
+        while (textEmoji === reactionEmoji) {
+            textEmoji = textEmojis[Math.floor(Math.random() * textEmojis.length)];
+        }
+
+        // Send reaction using conn.sendMessage()
+        await conn.sendMessage(from, {
+            react: { text: textEmoji, key: mek.key }
+        });
+
+        const end = new Date().getTime();
+        const responseTime = (end - start) / 1000;
+
+        const text = `> *k̲̅i̲̅l̲̅l̲̅e̲̅r̲̅-x̲̅m̲̅d̲̅ s̲̅p̲̅e̲̅e̲̅d̲̅: ${responseTime.toFixed(2)}ms ${reactionEmoji}*`;
+
+        await conn.sendMessage(from, {
+            text,
+            contextInfo: {
+                mentionedJid: [sender],
+                forwardingScore: 999,
+                isForwarded: true,
+                forwardedNewsletterMessageInfo: {
+                    newsletterJid: '120363416335506023@newsletter',
+                    newsletterName: "🅾🅱🅴🅳🆃🅴🅲🅷",
+                    serverMessageId: 143
+                }
+            }
+        }, { quoted: mek });
+
+    } catch (e) {
+        console.error("Error in ping command:", e);
+        reply(`An error occurred: ${e.message}`);
+    }
+});
+
+// ping2 
+
+cmd({
+    pattern: "ping",
+    desc: "Check bot's response time.",
+    category: "main",
+    react: "🍂",
+    filename: __filename
+},
+async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        const startTime = Date.now()
+        const message = await conn.sendMessage(from, { text: '*PINGING...*' })
+        const endTime = Date.now()
+        const ping = endTime - startTime
+        await conn.sendMessage(from, { text: `*🔥 k̲̅i̲̅l̲̅l̲̅e̲̅r̲̅-x̲̅m̲̅d̲̅ s̲̅p̲̅e̲̅e̲̅d̲̅ : ${ping}ms*` }, { quoted: message })
+    } catch (e) {
+        console.log(e)
+        reply(`${e}`)
+    }
+})
